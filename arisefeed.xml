@@ -1,8 +1,617 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>ARISE analytics</title>
-    <link>https://note.com/ariseanalytics</link>
-    <description>ARISE analytics Note更新情報</description>
-  </channel>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:note="https://note.com" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>ARISE analytics (アライズ アナリティクス)</title>
+<description>ARISE analyticsは約350名以上のデータサイエンティストが在籍する、KDDIとアクセンチュアのジョイントベンチャーです。 採用情報（新卒・中途）はこちら👉https://www.ariseanalytics.com/recruit/ </description>
+<link>https://note.ariseanalytics.com</link>
+<atom:link rel="self" type="application/rss+xml" href="https://note.ariseanalytics.com/rss/"/>
+<copyright>ARISE analytics (アライズ アナリティクス)</copyright>
+<webfeeds:icon>https://s3-ap-northeast-1.amazonaws.com/poc-image/production/998fad227daa8f68692ad1c5c747d9527511ddab4b1b0ae4d3b5c4a91a73.png</webfeeds:icon>
+<webfeeds:logo>https://s3-ap-northeast-1.amazonaws.com/poc-image/production/998fad227daa8f68692ad1c5c747d9527511ddab4b1b0ae4d3b5c4a91a73.png</webfeeds:logo>
+<webfeeds:accentColor>249F80</webfeeds:accentColor>
+<webfeeds:related layout="card" target="browser"/>
+<webfeeds:analytics id="UA-48687000-1" engine="GoogleAnalytics"/>
+<language>ja</language>
+<lastBuildDate>Tue, 05 Nov 2024 19:17:02 +0900</lastBuildDate>
+<item>
+<title>DCS案件共有会を開催しました！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/160073100/rectangle_large_type_2_e31cc3ab224dd932ce5b579cb3df0c29.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="cfe7e1eb-056b-48e8-bd8a-fbfb3154013e" id="cfe7e1eb-056b-48e8-bd8a-fbfb3154013e">こんにちは！<br>ARISE analytics（以下ARISE）に新卒で入社して3年目になる岡部です。これまでデータサイエンティストとして、機械学習モデルの構築や効果検証に従事してきました。</p><p name="cdb4bee8-ea17-49cf-a57e-cdc30b43e172" id="cdb4bee8-ea17-49cf-a57e-cdc30b43e172">今回の記事では、<strong>ARISEのデータサイエンティストのほぼ全員が所属する一大部署、Digital Consulting Sector（以下DCS）</strong>を対象に実施したDCS案件共有会の様子をレポートいたします！</p><br/><a href='https://note.ariseanalytics.com/n/n93735daa2eb7'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 31 Oct 2024 22:27:25 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n93735daa2eb7</link>
+<guid>https://note.ariseanalytics.com/n/n93735daa2eb7</guid>
+</item>
+<item>
+<title>ARISE analytics独自の教育プログラム「ARISE university Training」の表彰式をレポート✨</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/157297720/rectangle_large_type_2_5f7d245878e8f939ba173e5b693b52bd.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="d94ff594-9ca8-4d41-b7dc-fe186da4eb82" id="d94ff594-9ca8-4d41-b7dc-fe186da4eb82">今回は<strong>ARISE analytics独自の教育プログラム「ARISE university Training」の表彰式の様子</strong>をお届けします✨</p><h2 name="ccd153c0-d6cd-42c1-a9d3-0b27a91e6589" id="ccd153c0-d6cd-42c1-a9d3-0b27a91e6589">ARISE university Trainingとは？</h2><br/><a href='https://note.ariseanalytics.com/n/n60bee5aa2ce3'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 11 Oct 2024 09:53:24 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n60bee5aa2ce3</link>
+<guid>https://note.ariseanalytics.com/n/n60bee5aa2ce3</guid>
+</item>
+<item>
+<title>【2026年卒向け】 選考フローについて</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/157058303/rectangle_large_type_2_37493e1622085f5203e0d0568af892d8.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="ce1638a7-c887-4c9c-b4e7-2e7e38adbe93" id="ce1638a7-c887-4c9c-b4e7-2e7e38adbe93">皆さんこんにちは！<br>ARISE analytics新卒採用担当の佐藤です！</p><p name="21e41410-e3a1-42f1-a457-45931baceadf" id="21e41410-e3a1-42f1-a457-45931baceadf"><a href="https://note.ariseanalytics.com/n/n2c8d4f4de9c9" target="_blank" rel="nofollow noopener">求める人物像をご紹介した前回</a>に引き続き、2026年卒の選考フローや、それぞれのポイントを紹介します。</p><br/><a href='https://note.ariseanalytics.com/n/nb8bb87e7a64b'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 07 Oct 2024 14:58:34 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nb8bb87e7a64b</link>
+<guid>https://note.ariseanalytics.com/n/nb8bb87e7a64b</guid>
+</item>
+<item>
+<title>【2026年卒向け】求める人物像について</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/156563023/rectangle_large_type_2_fce1c107346530edd28f144240473ca0.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="5746bc17-6a90-459a-9a17-435855e45347" id="5746bc17-6a90-459a-9a17-435855e45347"><br></p><p name="f1ec1905-8da7-4b4b-aefb-e8c6d7ded4a1" id="f1ec1905-8da7-4b4b-aefb-e8c6d7ded4a1">皆さんこんにちは！ARISE analytics採用チームの佐藤です✨</p><br/><a href='https://note.ariseanalytics.com/n/n2c8d4f4de9c9'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 03 Oct 2024 12:07:45 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n2c8d4f4de9c9</link>
+<guid>https://note.ariseanalytics.com/n/n2c8d4f4de9c9</guid>
+</item>
+<item>
+<title>ARISE analyticsへようこそ！総勢25名の新入社員を歓迎するWelcome Dinner！ </title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/152231922/rectangle_large_type_2_ea76beef5066becd5a7960b2eb1a4f51.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="bd16bf46-34ee-4b06-ae6f-43cce4d334e7" id="bd16bf46-34ee-4b06-ae6f-43cce4d334e7">こんにちは！データサイエンティストの井上です。<strong><br>ARISE analytics(以下ARISE)では年に2回ほど、新入社員を歓迎する「Welcome Dinner」を開催しています。<br></strong>※去年4月実施のオンラインでの様子は<a href="https://note.ariseanalytics.com/n/n35dcfb5bdfcd" target="_blank" rel="nofollow noopener">こちら</a></p><p name="5c78da24-5969-487b-b004-ed96a36b16e0" id="5c78da24-5969-487b-b004-ed96a36b16e0">このイベントは去年の8月からオンサイトで実施されており、かくいう私も去年の8月にwelcome対象者として参加していました！</p><br/><a href='https://note.ariseanalytics.com/n/nc95323d63164'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 26 Aug 2024 19:29:42 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nc95323d63164</link>
+<guid>https://note.ariseanalytics.com/n/nc95323d63164</guid>
+</item>
+<item>
+<title>人工知能学会 全国大会2024に参加しました</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/147425727/rectangle_large_type_2_828b7837251c2f459937542d266a87a5.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="5f576b49-fc44-455b-a287-c644d6016085" id="5f576b49-fc44-455b-a287-c644d6016085">5月にARISE analytics（以下ARISE）がスポンサーとして参加した人工知能学会 全国大会2024の様子をお届けします✨</p><table-of-contents name="6064876e-c3c3-4ed5-9450-ed0924475fad" id="6064876e-c3c3-4ed5-9450-ed0924475fad"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/n4c0c975f76de'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 16 Jul 2024 06:05:00 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n4c0c975f76de</link>
+<guid>https://note.ariseanalytics.com/n/n4c0c975f76de</guid>
+</item>
+<item>
+<title>【26卒向け】ARISE analyticsの「1Day 仕事体験」が始まります！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/145807247/rectangle_large_type_2_115fdff4eea0575956baccc8f04ce88e.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="f3417ae5-8602-4f5b-b8d1-16c4cfdc8f83" id="f3417ae5-8602-4f5b-b8d1-16c4cfdc8f83">こんにちは！ARISE analytics採用チームの中島です！<br>この度、ARISE analytics（以下ARISE）では26卒の方を対象とした1Day仕事体験を開催します！！✨<br>データサイエンスによる課題解決の楽しさや意義、そしてARISEの社員の人柄に触れられる、とても充実した1Dayを過ごしてもらえるよう準備しています。</p><p name="8c591ae6-6c80-47ee-956b-540926dd15f6" id="8c591ae6-6c80-47ee-956b-540926dd15f6">そんな仕事体験、是非こんな方に参加してもらいたいです。</p><br/><a href='https://note.ariseanalytics.com/n/n090ed1b4da5a'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 01 Jul 2024 18:47:21 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n090ed1b4da5a</link>
+<guid>https://note.ariseanalytics.com/n/n090ed1b4da5a</guid>
+</item>
+<item>
+<title>ARISE analyticsのエンジニアってどんな仕事をしているの？実際に聞いてみた</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/144743020/rectangle_large_type_2_960be9d0a8fa95768c7e93efa5beea06.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p style="text-align: left" name="cb466f3f-bfb6-451d-8703-d161fba38d64" id="cb466f3f-bfb6-451d-8703-d161fba38d64">こんにちは。ARISE analytics（以下、ARISE）に新卒で入社して4年目になる江澤です。これまでソリューションエンジニアとして、フロントエンドからインフラまで多岐にわたり開発業務に従事してきました。現在は、お客様とともにヘルスケアのためのtoC向けモバイルアプリの開発支援業務を推進しています。</p><p style="text-align: left" name="eb1db0e5-03e1-4655-8ade-94bc26c25668" id="eb1db0e5-03e1-4655-8ade-94bc26c25668">今回はARISEに中途入社したエンジニアのバックグラウンドや、ARISEでのエンジニア職のやりがいについて深堀りしていきます。</p><br/><a href='https://note.ariseanalytics.com/n/n19b5a69beb39'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 24 Jun 2024 13:55:38 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n19b5a69beb39</link>
+<guid>https://note.ariseanalytics.com/n/n19b5a69beb39</guid>
+</item>
+<item>
+<title>【初見さんいらっしゃい！】ARISE analyticsをまるっと知れる！まず読んで欲しい記事まとめ</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/143589402/rectangle_large_type_2_8c33e62d28819614cebf4cd63810fc67.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="4cb6e403-0da3-4b16-932a-a74e3c3ecd01" id="4cb6e403-0da3-4b16-932a-a74e3c3ecd01">こんにちは。広報の岡村です。</p><p name="1d78d327-437f-4eaf-88f0-ba03476c53e2" id="1d78d327-437f-4eaf-88f0-ba03476c53e2">今回の記事は、私たちARISE analytics（以下ARISE）を知らなかった方に向けて、</p><br/><a href='https://note.ariseanalytics.com/n/naa693ffb1af7'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 10 Jun 2024 15:13:18 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/naa693ffb1af7</link>
+<guid>https://note.ariseanalytics.com/n/naa693ffb1af7</guid>
+</item>
+<item>
+<title>早期活躍支援！中途向け入社時テクニカル研修プログラムのご紹介</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/142920724/rectangle_large_type_2_b7e5825e9a833a0fad74cfa923d4c379.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="9000cd50-72c5-446d-bcd2-849e6aa40f52" id="9000cd50-72c5-446d-bcd2-849e6aa40f52">こんにちは。教育チームの首藤です。</p><p name="85404a75-6cb4-49aa-a885-ff7dd479cf52" id="85404a75-6cb4-49aa-a885-ff7dd479cf52">冬眠期間を経て、春から屋外イベント周りを再開しました！夏を迎えるのが楽しみです！<br></p><br/><a href='https://note.ariseanalytics.com/n/nd52b08aa72cf'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 04 Jun 2024 14:08:27 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nd52b08aa72cf</link>
+<guid>https://note.ariseanalytics.com/n/nd52b08aa72cf</guid>
+</item>
+<item>
+<title>新卒2年目エンジニアが思う、ARISE analyticsで働く魅力！～Qiitaでの外部発信について～</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/140874477/rectangle_large_type_2_fa61b6d9263373f0d6259eb8b118da8f.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <h2 style="text-align: start" name="686f9593-95cb-4210-bf73-2462f448be4c" id="686f9593-95cb-4210-bf73-2462f448be4c">はじめに</h2><p name="f7902ed8-8b05-4b4b-adeb-40e60e6630cb" id="f7902ed8-8b05-4b4b-adeb-40e60e6630cb">こんにちは。ARISE analytics（以下ARISE）の新卒エンジニア2年目のsergicalsix（ <a href="https://note.com/sergicalsix_/" target="_blank" rel="nofollow noopener">sergicalsix｜note</a> ）と申します。<br><br>本記事ではARISEにおけるQiitaの取り組みを紹介しながら、ARISEのメンバーと組織としての魅力について紹介していきます！！</p><br/><a href='https://note.ariseanalytics.com/n/n0683e1a61262'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 20 May 2024 16:04:34 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n0683e1a61262</link>
+<guid>https://note.ariseanalytics.com/n/n0683e1a61262</guid>
+</item>
+<item>
+<title>～ARISE analyticsのSDGs～循環型社会の形成について学ぶ社内勉強会を開催しました！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/140607895/rectangle_large_type_2_9b85025f4d162ff1ee6213d0daeed487.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <table-of-contents name="38b50077-764a-405e-a3b2-3349a02b3050" id="38b50077-764a-405e-a3b2-3349a02b3050"><br></table-of-contents><p name="495d9f99-6f25-4544-a5d3-ecf57c950068" id="495d9f99-6f25-4544-a5d3-ecf57c950068">こんにちは。広報の岡村です。</p><br/><a href='https://note.ariseanalytics.com/n/na0fb2a16643b'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 15 May 2024 07:53:28 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/na0fb2a16643b</link>
+<guid>https://note.ariseanalytics.com/n/na0fb2a16643b</guid>
+</item>
+<item>
+<title>情報処理学会 全国大会に参加しました</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/138244518/rectangle_large_type_2_f3f7c3a0a33add855bcf64baa5d09915.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="05723eb7-7bee-435b-aeb1-1b032d7f3e31" id="05723eb7-7bee-435b-aeb1-1b032d7f3e31">3月にARISE analytics（以下ARISE）がスポンサーとして参加した情報処理学会 全国大会の様子をお届けします✨</p><table-of-contents name="65253a12-6da1-4eaa-8669-20b485030c29" id="65253a12-6da1-4eaa-8669-20b485030c29"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/nab3ce6f966fe'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 24 Apr 2024 10:18:38 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nab3ce6f966fe</link>
+<guid>https://note.ariseanalytics.com/n/nab3ce6f966fe</guid>
+</item>
+<item>
+<title>ようこそARISE analyticsへ！新卒6期生の入社式をレポート</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/137050712/rectangle_large_type_2_6e6447bc1cdaa66bf0ae1ce1b92a6902.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="c9b989ec-a21a-4e7a-9cbb-efe3e1b66faf" id="c9b989ec-a21a-4e7a-9cbb-efe3e1b66faf">こんにちは。広報の岡村です。</p><p name="ef4973da-0254-4930-a532-12d023a8f14e" id="ef4973da-0254-4930-a532-12d023a8f14e">ARISE analyticsでは、4月1日に13名の新卒6期生を迎えました。今回の記事では、ヒカリエオフィスで行った入社式の様子をお届けします。</p><br/><a href='https://note.ariseanalytics.com/n/n418dd69f664e'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 12 Apr 2024 18:36:17 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n418dd69f664e</link>
+<guid>https://note.ariseanalytics.com/n/n418dd69f664e</guid>
+</item>
+<item>
+<title>ARISEが挑む社会課題解決！消防庁公募プロジェクト</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/133784219/rectangle_large_type_2_b50c295bb7f5d43836b0e3e356856300.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="4fd02db7-24e8-4dd7-bac7-b9931f8f3a74" id="4fd02db7-24e8-4dd7-bac7-b9931f8f3a74">こんにちは。ARISE analytics（以下ARISE）のnoteをお読みいただきありがとうございます！ARISE新卒3年目(がもうすぐ終わる)河内です。今回は、ARISE初！社員が主体となって取り組んだ社会課題の解決を目指すプロジェクトの試みについてお届けいたします。</p><h2 name="febe655f-48bd-4d7f-a2b7-8efcb9628c95" id="febe655f-48bd-4d7f-a2b7-8efcb9628c95">背景</h2><br/><a href='https://note.ariseanalytics.com/n/na35cc0de51e5'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 13 Mar 2024 12:35:36 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/na35cc0de51e5</link>
+<guid>https://note.ariseanalytics.com/n/na35cc0de51e5</guid>
+</item>
+<item>
+<title>新卒1期生のいま　入社後の5年を振り返る #1</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/133016000/rectangle_large_type_2_8bcf7028c6534fb24dee64ce4bfe3356.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="2188d14c-3537-4287-9cff-b933fe83b707" id="2188d14c-3537-4287-9cff-b933fe83b707">「5年後、あなたはどうなりたいですか？」<br>面接などで、5年後のキャリアビジョンをきかれても、すぐに答えられる方は多くないかもしれません。</p><p name="b86e7454-fbe0-49fe-a6e1-d30af4233e60" id="b86e7454-fbe0-49fe-a6e1-d30af4233e60">本記事では、2019年にARISE analytics（以下ARISE）の新卒1期生として入社した尾山さんが、周囲の人からどのような指導を受けて成長し、チームを率いるリーダーになったのか、入社後の5年を振り返ってもらいました。</p><br/><a href='https://note.ariseanalytics.com/n/nd6035701a3ba'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 06 Mar 2024 09:38:42 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nd6035701a3ba</link>
+<guid>https://note.ariseanalytics.com/n/nd6035701a3ba</guid>
+</item>
+<item>
+<title>全社横断の一大イベント！アラフェス企画の「裏側」をご紹介</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/131060186/rectangle_large_type_2_05da5e1f48d4f24baafa5603a0f34f7c.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="cb16c329-875f-45ff-b7e2-2721b964a395" id="cb16c329-875f-45ff-b7e2-2721b964a395">こんにちは。データサイエンティストの吉田です。</p><p name="6a72df55-0f7e-4cda-a9ca-a861c588eec3" id="6a72df55-0f7e-4cda-a9ca-a861c588eec3">ARISE analytics（以下、ARISE）では年末に社員主導で納会（以下、アラフェス、ARISE Festivalの略）を実施するのが恒例となっております。<br>※去年の様子は<a href="https://note.ariseanalytics.com/n/n451c1e9888e4" target="_blank" rel="nofollow noopener">コチラ</a>。</p><br/><a href='https://note.ariseanalytics.com/n/nf2783bc3c93e'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 20 Feb 2024 09:44:17 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nf2783bc3c93e</link>
+<guid>https://note.ariseanalytics.com/n/nf2783bc3c93e</guid>
+</item>
+<item>
+<title>データサイエンティスト未経験でも安心！ARISE analyticsの中途入社向け研修とは？</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/130941199/rectangle_large_type_2_989e2d0e09388728e6203104a008a042.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <h2 name="00da9c5b-7156-433a-8e2d-bf07c7f7a02c" id="00da9c5b-7156-433a-8e2d-bf07c7f7a02c">はじめに</h2><p name="52e939ce-6524-433e-8f7a-0a549557fa94" id="52e939ce-6524-433e-8f7a-0a549557fa94">みなさん、はじめまして！ARISE analytics 採用・教育チームの首藤です。<br>11月で4歳になった娘と行く屋外イベントが好きで、最近も様々なイベントに行ってきました！</p><br/><a href='https://note.ariseanalytics.com/n/na32d89e081e5'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 15 Feb 2024 16:45:05 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/na32d89e081e5</link>
+<guid>https://note.ariseanalytics.com/n/na32d89e081e5</guid>
+</item>
+<item>
+<title>岩手県立大学で開催！データサイエンティストが企画したデータアナリティクスセミナー</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/129545690/rectangle_large_type_2_b7089769eaceb13b53dff190fd91a7a5.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="ff2208d6-9c9e-4aa4-b1f1-00230ac8f850" id="ff2208d6-9c9e-4aa4-b1f1-00230ac8f850">こんにちは、ARISE analytics（以下、ARISE）SDGs推進事務局メンバーの内山です！普段はデータサイエンティストとして、データ分析スキルを持つ人材を育成するプロジェクトを行っています。プライベートでは離島旅行をするのが好きで、最近は夜行フェリーで八丈島に行きました！</p><p name="40331468-b831-4c69-bc52-b931018a2587" id="40331468-b831-4c69-bc52-b931018a2587">今回の記事では、2023年11月11日に<strong>岩手県立大学ソフトウェア情報学部で開催したデータアナリティクスセミナー</strong>についてレポートさせていただきます！</p><br/><a href='https://note.ariseanalytics.com/n/nf8b8cf6f7b26'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 07 Feb 2024 11:07:45 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nf8b8cf6f7b26</link>
+<guid>https://note.ariseanalytics.com/n/nf8b8cf6f7b26</guid>
+</item>
+<item>
+<title>【内定者座談会】ARISE analyticsにはどんな人が入社しているの？2024年卒内定者の本音とリアル</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/128604954/rectangle_large_type_2_45528fc2384c8f914991bb4fd4fd5a14.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="948a05af-b189-419b-8c38-724983faeea1" id="948a05af-b189-419b-8c38-724983faeea1">2024年卒の内定者のうち、3名の方々に就職活動のリアルやARISE analyticsに入社を決めた理由をざっくばらんにお伺いしました。</p><figure name="e81ae33c-a2f5-47b9-bea5-505fec0ec458" id="e81ae33c-a2f5-47b9-bea5-505fec0ec458"><blockquote><p name="2a91e3cf-2d02-4a17-827d-4e54175b7754" id="2a91e3cf-2d02-4a17-827d-4e54175b7754"><strong>↓こんな方におすすめ</strong><br>・データサイエンス専攻ではないが、データサイエンティストに興味がある<br>・データサイエンティストを志望する学生の就職活動の進め方が知りたい<br>・ARISE analyticsが他社とどう違うのか知りたい<br>・ARISE analyticsへの入社の決め手が知りたい<br>・内定者のリアルな本音が知りたい</p></blockquote> <figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n84b86a264293'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 26 Jan 2024 11:56:19 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n84b86a264293</link>
+<guid>https://note.ariseanalytics.com/n/n84b86a264293</guid>
+</item>
+<item>
+<title>新卒2年目 社員座談会～就活から入社後の本音まで深堀り～</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/128095494/rectangle_large_type_2_ad4debfaea43b304e4c68541f3f6d45f.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="b8d554d5-21d5-4f29-abdd-2aeb308f49e0" id="b8d554d5-21d5-4f29-abdd-2aeb308f49e0">こんにちは。データサイエンティスト歴2年の鈴木です。<br>これまでAIエンジニアとして、各種サービスのログから顧客の興味・関心を推定するモデルの開発・運用に従事してきました。現在は、培ってきた知見をもとにドローンを活用した分析支援の案件にて、取り組み方針の策定やAI導入検討などの業務を担当しています。<br><br>今回はARISE analytics（以下、ARISE）に入社し、2022年8月に現場に配属されてから約1年半が経過した新卒社員の座談会の様子をお届けします。<br><br>ARISE入社前はどんなことに取り組み、何を考えていたのか。また、実際に現場で働いてみて感じたことから今後のキャリア観まで、赤裸々に話してもらいました。ARISEに興味がある方、入社を検討してくれている方にはぜひ読んでもらいたい内容となっているので、最後まで読んでもらえると嬉しいです！</p><table-of-contents name="2fd69969-22ad-49bf-bcc5-5924b09743a5" id="2fd69969-22ad-49bf-bcc5-5924b09743a5"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/ndf337c652ce3'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 19 Jan 2024 16:32:30 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/ndf337c652ce3</link>
+<guid>https://note.ariseanalytics.com/n/ndf337c652ce3</guid>
+</item>
+<item>
+<title>ARISE analytics、2025年卒の採用活動始めるってよ！②想いが詰まった選考フローを大解剖！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/127886173/rectangle_large_type_2_5a5918b0ccbed306109a5483de0e5405.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="19c9deb2-f20a-4c12-9d8d-cc933af396a4" id="19c9deb2-f20a-4c12-9d8d-cc933af396a4">皆さんこんにちは！<br>ARISE analytics新卒採用担当の佐藤です！</p><p name="6bfdada8-6cf3-457f-ae01-97c304465342" id="6bfdada8-6cf3-457f-ae01-97c304465342"><a href="https://note.ariseanalytics.com/n/nc2d8d7c31156?magazine_key=mf10093514c06" target="_blank" rel="nofollow noopener">採用活動の全体像をお伝えした前回</a>に引き続き、新卒採用選考のポイントをご紹介します！</p><br/><a href='https://note.ariseanalytics.com/n/ncc6092855116'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 17 Jan 2024 11:48:07 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/ncc6092855116</link>
+<guid>https://note.ariseanalytics.com/n/ncc6092855116</guid>
+</item>
+<item>
+<title>数字で見るARISE analytics</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/124621484/rectangle_large_type_2_b3765bf551fa12523dbbb355fba340b7.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="9790ef02-0e1a-4488-9831-5bbcdd320021" id="9790ef02-0e1a-4488-9831-5bbcdd320021">皆さん、こんにちは。広報の岡村です。<br>今回は「数字で見るARISE analytics」と題して、ARISE analytics （以下ARISE）で<strong>働く人や働き方、環境について、採用活動の中でよく聞かれる質問や興味をもっていただく項目</strong>を中心にご紹介します。リアルなARISEの姿をお伝えできると思いますので、ぜひ最後までご覧ください！</p><h2 name="4e6f6ab3-f57c-44a2-80c7-e112dbd27cfa" id="4e6f6ab3-f57c-44a2-80c7-e112dbd27cfa">ARISEではどんな「人」が働いているの？</h2><br/><a href='https://note.ariseanalytics.com/n/n939257713ef7'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 19 Dec 2023 11:49:39 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n939257713ef7</link>
+<guid>https://note.ariseanalytics.com/n/n939257713ef7</guid>
+</item>
+<item>
+<title>ARISE analyticsの放課後！#部活動をご紹介</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/124454347/rectangle_large_type_2_64b8768397eecbd0517f1842e84affed.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="0a37ffc1-4b4d-4b2c-a79e-894579686940" id="0a37ffc1-4b4d-4b2c-a79e-894579686940">こんにちは。広報の岡村です。</p><p name="9a19dcb9-773c-4f72-9bf7-a507d1e50806" id="9a19dcb9-773c-4f72-9bf7-a507d1e50806">ARISE analytics（以下、ARISE）には有志参加の部活動が数多くあり、社員同士が部署をまたいで交流できる場になっています。Slackには各部活動のチャンネルが約50個も存在します。気になる部活動が沢山あるのですが、その一部をこの記事でご紹介！</p><br/><a href='https://note.ariseanalytics.com/n/n84d924115798'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 13 Dec 2023 19:27:24 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n84d924115798</link>
+<guid>https://note.ariseanalytics.com/n/n84d924115798</guid>
+</item>
+<item>
+<title>ARISE analyticsではどんな人が活躍しているの？～データサイエンティストにインタビュー～ </title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/121298823/rectangle_large_type_2_22d9aa814f604e32dd1ad4c107ff72f3.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="0611c4f2-97e3-4643-bff2-a34f4eb450cd" id="0611c4f2-97e3-4643-bff2-a34f4eb450cd">こんにちは、広報の岡村です。</p><p name="24021812-c41a-496d-85ef-14aa26472c15" id="24021812-c41a-496d-85ef-14aa26472c15">ARISE analyticsでは現在、約500名のメンバーが活躍しています。そこで今回は「<strong>ARISE analyticsではどんな人が活躍しているの？</strong>」と題して、社員に突撃インタビュー！<br>2021年にARISE analyticsに新卒入社し、データコンサルタントとしてプロジェクトを牽引。チームリードとして活躍した後、現在はAIエンジニアとしてドローンを活用した画像解析プロジェクトに携わる、ベルギー出身の太田幹さんに色々なことを聞いてきました。</p><br/><a href='https://note.ariseanalytics.com/n/n4e44acc50b10'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 15 Nov 2023 15:39:11 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n4e44acc50b10</link>
+<guid>https://note.ariseanalytics.com/n/n4e44acc50b10</guid>
+</item>
+<item>
+<title>関西大学で開催！データサイエンティストが企画したデータアナリティクスセミナー</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/120485207/rectangle_large_type_2_b480558b0b44b81c7a670b4b9f4f7401.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="5c186b1d-65da-4f47-9df1-25822396500b" id="5c186b1d-65da-4f47-9df1-25822396500b">こんにちは、ARISE analytics（以下、ARISE）でSDGs推進事務局メンバーをしております岡部です！普段はアナリストとしてau・UQユーザーの通信料金の支払いなどに関する分析業務に携わっています。趣味は読書で、本好きが高じて最近シェア型書店の棚主（本屋さんの一区画を借りて自分の好きな本を販売できる）になりました。</p><p name="9c93648a-d208-4a3d-ba15-2b0d8554a27b" id="9c93648a-d208-4a3d-ba15-2b0d8554a27b">今回の記事では、2023年8月7日に<strong>関西大学システム理工学部で開催したデータアナリティクスセミナー</strong>について、一緒に講師を担当した山田寛子さんと一緒にレポートさせていただきます！</p><br/><a href='https://note.ariseanalytics.com/n/nadf6d3c3515f'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 06 Nov 2023 12:19:46 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nadf6d3c3515f</link>
+<guid>https://note.ariseanalytics.com/n/nadf6d3c3515f</guid>
+</item>
+<item>
+<title>～ARISE analyticsのSDGs～サステナビリティ経営を学ぶ勉強会を開催しました！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/119854430/rectangle_large_type_2_01f11cf1c901cc33ee443c023ed22a51.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="b04746a3-a45c-43be-b275-94be6ea1b89b" id="b04746a3-a45c-43be-b275-94be6ea1b89b">こんにちは。広報の岡村です。</p><p name="62dd2948-cb71-47e1-a2d0-b0408a4373eb" id="62dd2948-cb71-47e1-a2d0-b0408a4373eb">ARISE analyticsでは、社内横断組織の「SDGs推進事務局」を中心に、私たちができるSDGsの取り組みを実施しています。その1つとして、9月15日にARISE analyticsの渋谷ヒカリエオフィスにて、KDDIサステナビリティ経営推進本部　サステナビリティ推進部　サステナビリティ推進グループ　リーダーの杉田満美子さん（以下、KDDI杉田さん）をお迎えし、SDGs勉強会を開催しました。<br>今回はその様子をお届けします。</p><br/><a href='https://note.ariseanalytics.com/n/n9cd8c76e4255'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 25 Oct 2023 16:37:33 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n9cd8c76e4255</link>
+<guid>https://note.ariseanalytics.com/n/n9cd8c76e4255</guid>
+</item>
+<item>
+<title>ARISE analyticsではどんな人が活躍しているの？～データサイエンティストにインタビュー～</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/117991371/rectangle_large_type_2_942a331faf4ed81b2310faf95b9ffb13.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="6adec9bd-7193-4fb4-871c-3e2ead90a3fc" id="6adec9bd-7193-4fb4-871c-3e2ead90a3fc">こんにちは、広報の岡村です。<br><br>ARISE analyticsでは現在、約500名のメンバーが活躍しています。そこで今回は「<strong>ARISE analyticsではどんな人が活躍しているの？</strong>」と題して、社員に突撃インタビュー！<br>2019年にARISE analyticsに入社し、現在はOMO Marketing Unit内のチームリードを務める中国出身の梁さんに根掘り葉掘り色々なことを聞きました。</p><figure name="755bd950-f648-45a0-8381-87d7a548dd44" id="755bd950-f648-45a0-8381-87d7a548dd44"><img src="https://assets.st-note.com/img/1697160001657-KccLK71wsj.png" alt="" width="620" height="364"><figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n11e7112b7881'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 10 Oct 2023 13:39:59 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n11e7112b7881</link>
+<guid>https://note.ariseanalytics.com/n/n11e7112b7881</guid>
+</item>
+<item>
+<title>ARISE analytics、2025年卒の採用活動始めるってよ！①想いが詰まった 採用イベントを大解剖！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/117975478/rectangle_large_type_2_8e043a09067a1cadedcbeae4862ed069.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p style="text-align: left" name="1c913867-ba11-417e-8d02-ec6199e75aad" id="1c913867-ba11-417e-8d02-ec6199e75aad">みなさんはじめまして。ARISE analyticsの新卒採用担当の佐藤と申します。<br><br>今回2023年4月に入社して、初めてnoteで記事を書きます！<br>そろそろ涼しくなってきましたが、みなさんいかがお過ごしでしょうか。<br>佐藤は一滴も汗をかかない夏を目指して、毎日「服がヒンヤリするスプレー」を滝のように服に振りかけた結果、ついにこの目標を達成し、人生で初めて夏に勝ちました！</p><p name="9b3d15b3-f8c3-4d7c-b95d-219e72e4e568" id="9b3d15b3-f8c3-4d7c-b95d-219e72e4e568">ARISE analyticsでは、この度10月より、2025年卒の学生の方向けに採用イベントを開催します！採用イベントをスタートするにあたり、皆さんの就職活動に少しでも参考になれたら嬉しく思います！</p><br/><a href='https://note.ariseanalytics.com/n/nc2d8d7c31156'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 05 Oct 2023 13:56:51 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nc2d8d7c31156</link>
+<guid>https://note.ariseanalytics.com/n/nc2d8d7c31156</guid>
+</item>
+<item>
+<title>ARISE analyticsならではの福利厚生や制度ってどんなものがあるの？</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/116244248/rectangle_large_type_2_de0cad340d551fef3d74ac8626f80ece.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="4f63edee-2799-4494-b2f6-32ff58f72cd2" id="4f63edee-2799-4494-b2f6-32ff58f72cd2">こんにちは。広報の岡村です。<br>ARISE analyticsではすべての社員が働きやすく、人生がより豊かになる環境を整えるべく、時代に合わせた福利厚生や制度作りに注力しています。</p><p name="47c8f448-4225-4b98-92b4-92651041b0da" id="47c8f448-4225-4b98-92b4-92651041b0da">今回は様々な福利厚生・制度の中から特に「ARISE analytics（以下ARISE）ならでは」といえるものを昨年度中途入社したデータサイエンティストの芹澤さん・エンジニアの今井さんとともにピックアップしてご紹介します！</p><br/><a href='https://note.ariseanalytics.com/n/n0801b2117bda'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 27 Sep 2023 17:34:56 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n0801b2117bda</link>
+<guid>https://note.ariseanalytics.com/n/n0801b2117bda</guid>
+</item>
+<item>
+<title>国内最大級のデータサイエンティスト集団 ARISE analytics のこれまでとこれから</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/116694961/rectangle_large_type_2_9e1f83e78c28fb5d1990fa004485a26d.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="c2c22e57-334b-40db-b9b8-4568dd714d53" id="c2c22e57-334b-40db-b9b8-4568dd714d53">はじめまして、ARISE analytics 代表取締役社長の家中です。<br>ARISE analyticsは、今年で設立7年目を迎えました。社員数は150名を超え、派遣社員や業務委託のスタッフを含めると約500名。そのうち350名近くが“データサイエンティスト”であり、データ分析会社としては、国内最大規模の組織です。データサイエンティストの人員構成は、社員に加え、親会社のKDDI、アクセンチュア、KDDIグループ企業であるD5CやDatum Studioなど、様々な会社から集まって成り立っており、各社の知見・ノウハウを持ち寄り、最先端のデータサイエンス技術を駆使することで、クライアントの課題解決に尽力しています。</p><p name="e65dbb10-0a2d-4207-a767-ebdd4542a490" id="e65dbb10-0a2d-4207-a767-ebdd4542a490">今回は、この場をお借りしてARISE analyticsのこれまでの歩み、これから目指していきたいことをお伝えします。</p><br/><a href='https://note.ariseanalytics.com/n/nb82ecfec5ed4'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 19 Sep 2023 10:55:49 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nb82ecfec5ed4</link>
+<guid>https://note.ariseanalytics.com/n/nb82ecfec5ed4</guid>
+</item>
+<item>
+<title>社員から「ARISE川柳」募集してみた</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/113498795/rectangle_large_type_2_54aeee46e8c150d5eaedb06e4116771b.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <table-of-contents name="b49f9536-b87e-4d15-a097-1d78537ca92d" id="b49f9536-b87e-4d15-a097-1d78537ca92d"><br></table-of-contents><p name="c063ea3f-0b77-413f-9abf-2c7f9f1f4706" id="c063ea3f-0b77-413f-9abf-2c7f9f1f4706">皆さん、こんにちは。広報の岡村です！</p><br/><a href='https://note.ariseanalytics.com/n/n250ad70139d2'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 17 Aug 2023 13:09:13 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n250ad70139d2</link>
+<guid>https://note.ariseanalytics.com/n/n250ad70139d2</guid>
+</item>
+<item>
+<title>密着レポート：ARISE analyticsの「1Day仕事体験」データサイエンスの実践とカルチャーに触れよう！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/111918616/rectangle_large_type_2_7a03e08125d81566db008240e30c26ad.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="d945e9ce-e57b-4826-8219-37f86d316b29" id="d945e9ce-e57b-4826-8219-37f86d316b29">ARISE analyticsでは今夏、「1Day仕事体験（25卒向け）」を実施しております（詳細・応募は<a href="https://note.ariseanalytics.com/n/nd6044d0906b3" target="_blank" rel="nofollow noopener">こちら</a>）。<br>本記事ではその様子をちょこっとご紹介します！</p><figure name="5395070f-73ae-4c89-a24f-1b968aee98b0" id="5395070f-73ae-4c89-a24f-1b968aee98b0"><img src="https://assets.st-note.com/img/1690508444984-A6aXWGud2N.png" alt="" width="620" height="349"><figcaption>「1Day仕事体験」 のプログラム👆</figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/nc10097393379'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 31 Jul 2023 18:28:12 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nc10097393379</link>
+<guid>https://note.ariseanalytics.com/n/nc10097393379</guid>
+</item>
+<item>
+<title>人工知能学会 全国大会に参加しました</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/109404122/rectangle_large_type_2_1ecf11a10b3970d6eecc93980190a536.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <table-of-contents name="7e9b0684-1795-4f56-b1f4-6684d51a6439" id="7e9b0684-1795-4f56-b1f4-6684d51a6439"><br></table-of-contents><p name="2ee94505-989c-4b5a-bda0-df93efdb1719" id="2ee94505-989c-4b5a-bda0-df93efdb1719">こんにちは。広報の岡村です。<br>ARISE analyticsでは最新技術知見の収集や、学術界でのネットワークづくりを目的に、3年前より人工知能学会に賛助会員として参加しています。<br><br>2023年6月6日(火)～9日(金)に行われた<strong>「</strong><a href="https://www.ai-gakkai.or.jp/jsai2023/" target="_blank" rel="nofollow noopener"><strong>人工知能学会全国大会</strong></a><strong>」</strong>＠熊本で、ARISE analyticsはプラチナスポンサーとして参加しました。<br>今回はその様子をレポートします！</p><br/><a href='https://note.ariseanalytics.com/n/n55c09b1a5181'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 25 Jul 2023 09:12:15 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n55c09b1a5181</link>
+<guid>https://note.ariseanalytics.com/n/n55c09b1a5181</guid>
+</item>
+<item>
+<title>男性育休取得率100％！ARISE analyticsのパパ社員が語る「育休」の本音 vol.2</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/108894368/rectangle_large_type_2_a5766e71cdc34a43961ecff1a12d93e7.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="7f6aaa2c-00bf-4014-9cd3-dd322cbad31f" id="7f6aaa2c-00bf-4014-9cd3-dd322cbad31f"><a href="https://note.ariseanalytics.com/n/nd32c6a59ee88" target="_blank" rel="nofollow noopener">前回</a>に引き続き、育児休業（以下、育休）から復帰した男性社員の座談会の様子をお届けします。<br>育休を取得して良かったこと、変わったこと、人生の節目ともなる大事な時期をどのように過ごしたのか。そして、復職後の変化なども話してもらいました。</p><figure name="0767f9c0-0700-4aef-bfa8-54bd87f9fcd6" id="0767f9c0-0700-4aef-bfa8-54bd87f9fcd6"><blockquote><p name="c91a45da-44e2-47af-953e-b537a3934ebc" id="c91a45da-44e2-47af-953e-b537a3934ebc">厚生労働省の調査によると、日本での男性の育児休業取得率13.97％（2021年度）※1に留まっており、2025年までに30％へ引き上げることが目標となっています。<br>そんな中、なんとARISE analyticsの男性育児休業取得率は100％！社員のライフイベントやライフステージの変化に合わせた、柔軟な働き方を実現できるような制度・仕組み作り、男性も育休が取得しやすいような文化の醸成に取り組んでいます。<br>男性が育休を取得することにより、積極的に子育てをしたいという男性の希望を実現するとともに、従来から課題となっている女性側に偏りがちな育児や家事の負担を夫婦で分かち合うことで、女性の出産意欲や継続就業の促進、企業全体の働き方改革にもつながります。</p></blockquote> <figcaption>※１　厚生労働省資料</figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/nbfece86775aa'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 22 Jun 2023 11:26:45 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nbfece86775aa</link>
+<guid>https://note.ariseanalytics.com/n/nbfece86775aa</guid>
+</item>
+<item>
+<title>男性育休取得率100％！ARISE analyticsのパパ社員が語る「育休」の本音 vol.1</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/108894409/rectangle_large_type_2_6fcc7c462ebbea32a01042bea37a175d.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="b0de06eb-9d9b-428b-8bca-66ae9ce01fbb" id="b0de06eb-9d9b-428b-8bca-66ae9ce01fbb">今回は育児休業（以下、育休）から復帰した男性社員の座談会の様子をお届けします。<br>育休を取得して良かったこと、変わったこと、人生の節目ともなる大事な時期をどのように過ごしたのか。そして、復職後の変化なども話してもらいました。</p><figure name="8353e1e1-2e36-4246-8a40-6de63bf1505b" id="8353e1e1-2e36-4246-8a40-6de63bf1505b"><blockquote><p name="332da31e-3bf5-479e-ba04-8d4269e6dcd9" id="332da31e-3bf5-479e-ba04-8d4269e6dcd9">厚生労働省の調査によると、日本での男性の育児休業取得率13.97％（2021年度）※1に留まっており、2025年までに30％へ引き上げることが目標となっています。<br>そんな中、なんとARISE analyticsの男性育児休業取得率は100％！社員のライフイベントやライフステージの変化に合わせた、柔軟な働き方を実現できるような制度・仕組み作り、男性も育休が取得しやすいような文化の醸成に取り組んでいます。<br>男性が育休を取得することにより、積極的に子育てをしたいという男性の希望を実現するとともに、従来から課題となっている女性側に偏りがちな育児や家事の負担を夫婦で分かち合うことで、女性の出産意欲や継続就業の促進、企業全体の働き方改革にもつながります。</p></blockquote> <figcaption>※１　厚労省調査資料</figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/nd32c6a59ee88'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 22 Jun 2023 11:18:03 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nd32c6a59ee88</link>
+<guid>https://note.ariseanalytics.com/n/nd32c6a59ee88</guid>
+</item>
+<item>
+<title>【25卒向け】ARISE analyticsの「1Day 仕事体験」が始まります！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/110021638/rectangle_large_type_2_c0be964e48d8ff927f2ee3a152f12f29.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="eaa54e2f-ac91-4cce-9020-c01f7b1103c2" id="eaa54e2f-ac91-4cce-9020-c01f7b1103c2">こんにちは！ARISE analytics採用チームの古谷です！<br>この度、ARISE analyticsでは25卒の方を対象とした1Day仕事体験を開催します！！✨<br><br>データサイエンスによる課題解決の楽しさや意義、そしてARISE analyticsの社員の人柄に触れられる、とーーーっても素敵な1Dayを過ごしてもらえるよう準備しておりますので、25卒の方で、データサイエンティストに興味をお持ちの方は、是非ご覧ください！</p><table-of-contents name="5582887f-a914-484f-b872-6d31cf37a578" id="5582887f-a914-484f-b872-6d31cf37a578"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/nd6044d0906b3'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 14 Jun 2023 20:28:03 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nd6044d0906b3</link>
+<guid>https://note.ariseanalytics.com/n/nd6044d0906b3</guid>
+</item>
+<item>
+<title>～ARISE analyticsのSDGs～楽しくランニングしながら、渋谷区のごみを減らす！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/105790897/rectangle_large_type_2_0632b3340c9ae15bd398a9b94925f595.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <h2 name="a0050c56-1b3a-4cc6-ac06-b99e51f1e678" id="a0050c56-1b3a-4cc6-ac06-b99e51f1e678">はじめに</h2><p name="d12b3a85-3914-4075-9db5-1620e315cb0f" id="d12b3a85-3914-4075-9db5-1620e315cb0f">こんにちは。広報の岡村です。<br>ARISE analyticsでは社内横断組織の「SDGs推進事務局」で、私たちができるSDGsの取り組みを考え、実施しています。</p><br/><a href='https://note.ariseanalytics.com/n/nd34103539718'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 30 May 2023 10:07:40 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/nd34103539718</link>
+<guid>https://note.ariseanalytics.com/n/nd34103539718</guid>
+</item>
+<item>
+<title>【毎年恒例】ようこそARISE analyticsへ。新入社員を歓迎するWelcome Dinner！ </title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/105789783/rectangle_large_type_2_e759343fadb5943b50120ca681e472ad.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="af88d271-f92f-4002-99c9-449214da588e" id="af88d271-f92f-4002-99c9-449214da588e">こんにちは！広報の岡村です。<br>ARISE analyticsでは隔月で新入社員を歓迎する「<strong>Welcome Dinner</strong>」を開催しています。<br>（このイベントは、有志で会社の連帯感を醸成するための部署横断組織「つながり作りワーキンググループ」が主催しています！）<br><br>今回は4月に行われた新卒・中途合わせて21名の入社者を歓迎する「Welcome Dinner」をレポートします。</p><figure name="74ff8b4b-f85a-486a-aba5-f8ef19ce8b75" id="74ff8b4b-f85a-486a-aba5-f8ef19ce8b75"><img src="https://assets.st-note.com/img/1684297417915-txzgqO0N2q.png" alt="" width="620" height="254"><figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n35dcfb5bdfcd'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Tue, 23 May 2023 17:59:47 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n35dcfb5bdfcd</link>
+<guid>https://note.ariseanalytics.com/n/n35dcfb5bdfcd</guid>
+</item>
+<item>
+<title>新卒5期生 15名（過去最多！）新人データサイエンティストを歓迎する入社式をレポート！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/102347664/rectangle_large_type_2_237e61dfcda775d9eb49f4a27e1b6ed8.jpeg?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="01ee8fcd-467b-4673-881e-e213969465a9" id="01ee8fcd-467b-4673-881e-e213969465a9">こんにちは。広報の岡村です。新年度が始まり、ARISE analyticsは設立から7期目を迎えました。<br>今年は過去最多人数となる（！）15名の新卒社員が入社しました。</p><p name="c78cd1c3-5b1e-40bf-9146-c066c98748fd" id="c78cd1c3-5b1e-40bf-9146-c066c98748fd">今回の記事では、ヒカリエオフィスで行った入社式の様子をお届けします🌸</p><br/><a href='https://note.ariseanalytics.com/n/n1154efa1c2c9'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 21 Apr 2023 10:10:01 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n1154efa1c2c9</link>
+<guid>https://note.ariseanalytics.com/n/n1154efa1c2c9</guid>
+</item>
+<item>
+<title>【2024年新卒向け】ARISE analyticsの新卒採用活動ってどうなっているの？③～選考について！！〜</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/102337936/rectangle_large_type_2_d113731c70658c4863d36e71c1112b1a.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="a6875beb-8488-48bf-a587-b06cb0c6c651" id="a6875beb-8488-48bf-a587-b06cb0c6c651">皆さんこんにちは！ARISE analytics採用チームの古谷です✨</p><figure name="c5b4170a-8e74-443e-9d80-79df5ac87791" id="c5b4170a-8e74-443e-9d80-79df5ac87791"><img src="https://assets.st-note.com/img/1680839156946-9YySxJLRel.png" alt="" width="424" height="256"><figcaption>お休みの日はドライブ先で釣りを嗜んだりしています。</figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n958e7d957b0a'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 14 Apr 2023 17:46:49 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n958e7d957b0a</link>
+<guid>https://note.ariseanalytics.com/n/n958e7d957b0a</guid>
+</item>
+<item>
+<title>早稲田大学で開催！データサイエンティストが企画したデータアナリティクスセミナー</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/102144652/rectangle_large_type_2_9e50b63fc535748399576457f80327e8.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="509f5987-a928-42f3-8ff0-3aba0649dbfd" id="509f5987-a928-42f3-8ff0-3aba0649dbfd">こんにちは、ARISE analytics（以下、ARISE）でSDGs推進事務局メンバーをしております谷貝（やがい）です！普段は、アナリストとしてKDDIのサービスの分析業務に従事しています。長い距離を走るのがとにかく好きで、休日はマラソンやトレイルランニングに没頭しています！<br>今回のnoteでは、2023年2月2日に<strong>早稲田大学所沢キャンパスで開催したデータアナリティクスセミナー</strong>について、太田幹くんと一緒にレポートさせていただきます！</p><table-of-contents name="1a645c86-7aec-462e-9761-c118a9443435" id="1a645c86-7aec-462e-9761-c118a9443435"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/n40a510df8c1d'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 05 Apr 2023 13:05:49 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n40a510df8c1d</link>
+<guid>https://note.ariseanalytics.com/n/n40a510df8c1d</guid>
+</item>
+<item>
+<title>SDGsスポーツ「プロギング」イベントの様子をレポート！</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/99342356/rectangle_large_type_2_8abf4c61a0d5dbbfb515b117d972f8f6.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="dc35eb4e-3f5e-437b-bfba-f6e794695f47" id="dc35eb4e-3f5e-437b-bfba-f6e794695f47">データサイエンティストの西谷です。現在は通信会社向けのマーケティング高度化支援の業務を行っています。趣味はガーデニング、編み物、英会話です。</p><figure name="7e31fd8e-e2ec-4de9-8bdc-a2ee44f581c2" id="7e31fd8e-e2ec-4de9-8bdc-a2ee44f581c2"><img src="https://assets.st-note.com/img/1677636768931-QCbp1ibWzl.png" alt="" width="280" height="281"><figcaption>Slackの分報では趣味のガーデニングの写真をよくアップしています</figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n3c5aa7ccdee0'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Thu, 09 Mar 2023 21:37:19 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n3c5aa7ccdee0</link>
+<guid>https://note.ariseanalytics.com/n/n3c5aa7ccdee0</guid>
+</item>
+<item>
+<title>志を言語化して3年後のありたい姿を描く！「リーダーシップ研修」の様子をレポート</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/99031745/rectangle_large_type_2_1d6cb9bb12cf56faf7a2ccd71c384735.jpeg?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="83bf5680-5925-4c61-ba2d-3157c26793bc" id="83bf5680-5925-4c61-ba2d-3157c26793bc">みなさん初めまして！ARISE analytics教育チームの加藤と申します。<br> <br>2022年の春に中途入社をして以来、『<a href="https://note.ariseanalytics.com/n/nabcac221c176" target="_blank" rel="nofollow noopener">ARISE university Training</a>』の企画運営など、社員の自己研鑽や成長のサポートをしています！<br> <br>前職まではHR Techや研修企画のコンサルタントとして、また個人ではコーチングやワークショップを学び実践していました。<br>本日ご紹介する<strong>毎年恒例の”志を言語化する”リーダーシップ研修</strong>は、HRとして企画に携わりたい！！と私のARISE analyticsへの入社を後押ししたものでもあります。</p><figure name="dcab4540-d82d-44f5-91c0-d0a4fceccfac" id="dcab4540-d82d-44f5-91c0-d0a4fceccfac"><img src="https://assets.st-note.com/img/1677039513986-mMyz0BG3Tq.jpg" alt="" width="340" height="235"><figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n1d73cad85d4b'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 27 Feb 2023 15:47:30 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n1d73cad85d4b</link>
+<guid>https://note.ariseanalytics.com/n/n1d73cad85d4b</guid>
+</item>
+<item>
+<title>ARISE analyticsではどんな人が活躍しているの？ ～「データサイエンティスト」にインタビュー！～ </title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/98623379/rectangle_large_type_2_f1196b71710b52f5f1364d412f1215b8.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="b9d7010e-0265-41f2-9281-faecbd346271" id="b9d7010e-0265-41f2-9281-faecbd346271">こんにちは、広報の岡村です。</p><p name="bfd5657b-521c-47c8-91c1-6c124d335af0" id="bfd5657b-521c-47c8-91c1-6c124d335af0">ARISE analyticsでは現在、約400名のメンバーが活躍しています。そこで今回は「ARISE analyticsではどんな人が活躍しているの？」と題して、社員に突撃インタビュー！ 金融系SIerのエンジニアからARISE analyticsではデータサイエンティストとして中途入社し、現在は技術開発チームにて活躍する福嶋さんに根掘り葉掘り色々なことを聞きました。</p><br/><a href='https://note.ariseanalytics.com/n/n77164345fae4'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 27 Feb 2023 13:50:28 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n77164345fae4</link>
+<guid>https://note.ariseanalytics.com/n/n77164345fae4</guid>
+</item>
+<item>
+<title>【2024年新卒向け】ARISE analyticsの新卒採用活動ってどうなっているの？②～求める人物像について！！〜</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/99024408/rectangle_large_type_2_f9d3f96fa6a157eb2da0b4628688885e.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="617840d8-8566-4337-98ba-53be20eb3287" id="617840d8-8566-4337-98ba-53be20eb3287">皆さんこんにちは！ARISE analytics採用チームの古谷です✨</p><figure name="3a8321c7-8c4c-4a8b-8e3d-1b9cdf634beb" id="3a8321c7-8c4c-4a8b-8e3d-1b9cdf634beb"><img src="https://assets.st-note.com/img/1677034377818-X0NCP8KqNt.jpg" alt="" width="620" height="414"><figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n899c75360c7c'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 27 Feb 2023 13:41:44 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n899c75360c7c</link>
+<guid>https://note.ariseanalytics.com/n/n899c75360c7c</guid>
+</item>
+<item>
+<title>ARISE analyticsが定期開催している他社との「合同勉強会」をレポート！～KDDI総合研究所×KDDIアジャイル開発センター編～</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/97470495/rectangle_large_type_2_dc13aaa68d690e6a648e590050bfacff.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <h2 name="ab6ec6d6-4e6c-47ce-aed5-16107904feb3" id="ab6ec6d6-4e6c-47ce-aed5-16107904feb3">はじめに</h2><p name="9949a29d-ed67-4ac8-a03a-04bef9151c2a" id="9949a29d-ed67-4ac8-a03a-04bef9151c2a">こんにちは。新卒3年目のエンジニアの江澤です。</p><br/><a href='https://note.ariseanalytics.com/n/ne9d1e53be976'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Wed, 15 Feb 2023 09:56:23 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/ne9d1e53be976</link>
+<guid>https://note.ariseanalytics.com/n/ne9d1e53be976</guid>
+</item>
+<item>
+<title>過去一盛り上がった（！）オンライン全社イベント☆企画の「裏側」をご紹介</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/97665735/rectangle_large_type_2_24b5a52b81037201ce19d3e5c5acab04.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="d06fd74b-8b2f-4fa9-b1ff-55c7b7e02a42" id="d06fd74b-8b2f-4fa9-b1ff-55c7b7e02a42">こんにちは。新卒2年目アナリストの西村（<a href="https://twitter.com/nsyk_tw" target="_blank" rel="nofollow noopener">@nsyk_tw</a>）です。以前、「<a href="https://note.ariseanalytics.com/n/n907da7ce0b87" target="_blank" rel="nofollow noopener">新入社員を歓迎する恒例行事！ Welcome Dinnerの様子をレポート</a>」を書いた人です。</p><p name="d58c9db3-0fbb-4138-b0f8-6d686d12e9cb" id="d58c9db3-0fbb-4138-b0f8-6d686d12e9cb">あと少しで年度末ですね。送別会など、年度末を締める会の幹事を任された方はそろそろ準備を始めようかなというタイミングかと思います。もしかすると、「まだまだ新型コロナウイルスの感染は収まりそうにないからオンラインでのイベントを企画したいけど、どんなことをすれば盛り上がるだろう……」と悩まれている方もいらっしゃるかもしれません。</p><br/><a href='https://note.ariseanalytics.com/n/n451c1e9888e4'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 10 Feb 2023 10:47:26 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n451c1e9888e4</link>
+<guid>https://note.ariseanalytics.com/n/n451c1e9888e4</guid>
+</item>
+<item>
+<title>【2024年新卒向け】ARISE analyticsの新卒採用活動ってどうなっているの？～採用イベントについて！！〜</title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/94136143/rectangle_large_type_2_3c36541513ade0cd4279dea5ada06f49.jpeg?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="2d86dba9-2b5d-46f1-b467-656cdc0d4de4" id="2d86dba9-2b5d-46f1-b467-656cdc0d4de4">みなさん初めまして✨ARISE analytics採用チームの古谷と申します。<br></p><figure name="5dffc9f8-8a12-4488-a2bc-d22fd57c70d8" id="5dffc9f8-8a12-4488-a2bc-d22fd57c70d8"><img src="https://assets.st-note.com/img/1671768309440-fxzw2fWhm0.png" alt="" width="620" height="433" style="width: 372px; height: 259.8px;"><figcaption></figcaption></figure><br/><a href='https://note.ariseanalytics.com/n/n0a3a0851e926'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Mon, 26 Dec 2022 15:31:30 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n0a3a0851e926</link>
+<guid>https://note.ariseanalytics.com/n/n0a3a0851e926</guid>
+</item>
+<item>
+<title>世界一働きがいのある会社への道！～社員の心身の健康を守る！ARISE analyticsが取り組む「健康経営」とは～ </title>
+<media:thumbnail>https://assets.st-note.com/production/uploads/images/92914855/rectangle_large_type_2_8516fe336700a4c85972c4b65c186180.png?width=800</media:thumbnail>
+<description>
+<![CDATA[ <p name="74b27d39-02d9-4b0b-afc4-66e1a98f98a9" id="74b27d39-02d9-4b0b-afc4-66e1a98f98a9">こんにちは。HR労務の灰原です。<br>ヨガを始めて11年、少しも上達はしていませんが(笑)週1回75分のレッスンが待ち遠しくて仕方ありません。自分の心や身体と対話する大事な時間にしています。</p><table-of-contents name="8863be3e-54df-44ee-9f65-8678d89c6c69" id="8863be3e-54df-44ee-9f65-8678d89c6c69"><br></table-of-contents><br/><a href='https://note.ariseanalytics.com/n/n6bbfe2f36638'>続きをみる</a> ]]>
+</description>
+<note:creatorImage>https://assets.st-note.com/production/uploads/images/53165482/profile_65b9424c830fc91c3717f964a1ce07df.png?fit=bounds&format=jpeg&quality=85&width=330</note:creatorImage>
+<note:creatorName>ARISE analytics (アライズ アナリティクス)</note:creatorName>
+<pubDate>Fri, 09 Dec 2022 10:59:37 +0900</pubDate>
+<link>https://note.ariseanalytics.com/n/n6bbfe2f36638</link>
+<guid>https://note.ariseanalytics.com/n/n6bbfe2f36638</guid>
+</item>
+</channel>
 </rss>
